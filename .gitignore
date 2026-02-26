@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.user
+*.opensdf
+*.sdf
+
+# vcpkg/build artifacts (optional)
+vcpkg/buildtrees/
+vcpkg/packages/
+vcpkg/downloads/
+
+# OS junk
+Thumbs.db
+.DS_Store
