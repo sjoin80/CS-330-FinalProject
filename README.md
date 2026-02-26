@@ -12,10 +12,8 @@ The objective of this project was to apply core computer graphics principles whi
 ---
 
 ## Final Scene
+<img width="1002" height="832" alt="FinalProjectScreenshot" src="https://github.com/user-attachments/assets/7cd7c054-61d8-48cd-9d20-bc6cbaafa5d6" />
 
-> Add your screenshot file to the repository and update the file name if needed.
-
-![Final Scene](FinalScene.png)
 
 ---
 
